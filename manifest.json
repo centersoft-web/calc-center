@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Calc Center by Center Soft Inc.®",
+  "short_name": "Calc Center",
+  "description": "Central modular de cálculos e simulações financeiras, imobiliárias e trabalhistas.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060b1a",
+  "theme_color": "#060b1a",
+  "categories": [
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
